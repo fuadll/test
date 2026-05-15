@@ -1,1 +1,1 @@
-print("salam")
+print("Jet Academy")
